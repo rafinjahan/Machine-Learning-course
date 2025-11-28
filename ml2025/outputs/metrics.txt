@@ -1,0 +1,4 @@
+Validation MAE: 10.136 €/MWh
+Validation RMSE: 25.685 €/MWh
+Train samples: 34895
+Validation samples: 8784
